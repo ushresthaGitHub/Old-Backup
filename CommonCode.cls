@@ -12,5 +12,4 @@ public class CommonCode {
 			return recTypesMap;
 		}
 	}
-
 }
